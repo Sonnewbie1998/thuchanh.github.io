@@ -1,0 +1,22 @@
+.huyen {
+    color: red;
+}
+
+* {
+    margin: 10PX;
+    padding: 10px;
+}
+
+.huyen {
+    font-size: 20px;
+}
+
+#ahihi {
+   
+        width: 400px;
+        height: 10px;
+    }
+ #ahihi2 {
+    font-size: 20px;
+    color: blue
+ }
